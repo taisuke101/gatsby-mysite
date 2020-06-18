@@ -9,7 +9,10 @@ module.exports = {
   siteMetadata: {
     title: `ESSENTIALS`,
     description: `美味しい食材と食事を探求するサイト`,
-    lang: `ja`
+    lang: `ja`,
+    siteUrl: `https://suspicious-jennings-fb87c3.netlify.app`,
+    locale: `ja_JP`,
+    fbappid: `260766188595248`
   },
   plugins: [
     `gatsby-transformer-sharp`,
